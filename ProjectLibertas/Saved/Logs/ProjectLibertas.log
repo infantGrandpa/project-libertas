@@ -1152,3 +1152,174 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.15-19.11.27:386][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -145532755
 [2025.07.15-19.11.27:386][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.289520, Update Interval: 357.897888
 [2025.07.15-19.13.18:293][655]LogDerivedDataCache: C:/Users/babra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.15-19.15.50:072][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.07.15-19.15.50:073][791]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.15-19.15.51:537][791]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.15-19.15.51:636][791]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.07.15-19.15.51:636][791]Cmd: MAP LOAD FILE="../../../../../../game-dev/serious-projects/project-libertas/ProjectLibertas/Content/Variant_Shooter/Lvl_ArenaShooter.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.15-19.15.51:658][791]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-19.15.51:658][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-19.15.51:658][791]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.07.15-19.15.51:686][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.15-19.15.51:692][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.07.15-19.15.51:695][791]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-19.15.51:695][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-19.15.51:712][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.07.15-19.15.51:727][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.07.15-19.15.51:742][791]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ArenaShooter'.
+[2025.07.15-19.15.51:742][791]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.15-19.15.51:805][791]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.15-19.15.51:824][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.07.15-19.15.51:833][791]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.15-19.15.51:834][791]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2025.07.15-19.15.51:933][792]LogNiagara: Compiling System NiagaraSystem /Game/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad.NS_JumpPad took 0.393659 sec (time since issued).
+[2025.07.15-19.16.00:488][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.15-19.16.00:618][717]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.15-19.16.08:926][331]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI.BP_FPShooter_AI
+[2025.07.15-19.16.08:927][331]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.15-19.16.09:039][331]LogStreaming: Display: FlushAsyncLoading(395): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.15-19.16.10:473][331]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.15-19.16.10:480][331]LogSlate: Took 0.005486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.07.15-19.17.25:295][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 362.213318
+[2025.07.15-19.17.25:398][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-19.17.25:398][ 49]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 362.299316, Update Interval: 353.340240
+[2025.07.15-19.18.58:239][347]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.15-19.18.58:326][347]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Variant_Shooter/Blueprints/AI/ST_Shooter.ST_Shooter' succeeded.
+[2025.07.15-19.18.58:330][347]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Variant_Shooter/Blueprints/AI/ST_Shooter_ShootAtTarget.ST_Shooter_ShootAtTarget' succeeded.
+[2025.07.15-19.19.03:417][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.07.15-19.19.05:445][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-19.19.05:492][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI] ([2] browsable assets)...
+[2025.07.15-19.19.05:493][692]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.07.15-19.19.05:566][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI.BP_FPShooter_AI]
+[2025.07.15-19.19.05:566][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI]
+[2025.07.15-19.19.05:608][692]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI
+[2025.07.15-19.19.05:610][692]LogSavePackage: Moving '../../../../../../game-dev/serious-projects/project-libertas/ProjectLibertas/Saved/BP_FPShooter_AI43D8A0DF4662C0DC0454B4A7B314D759.tmp' to '../../../../../../game-dev/serious-projects/project-libertas/ProjectLibertas/Content/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI.uasset'
+[2025.07.15-19.19.05:617][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.062 ms
+[2025.07.15-19.19.05:658][692]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-19.19.05:658][692]LogContentValidation: Enabled validators:
+[2025.07.15-19.19.05:658][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-19.19.05:658][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-19.19.05:658][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-19.19.05:658][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-19.19.05:658][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-19.19.05:658][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-19.19.05:658][692]AssetCheck: /Game/Variant_Shooter/Blueprints/AI/BP_FPShooter_AI Validating asset
+[2025.07.15-19.19.05:685][692]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../game-dev/serious-projects/project-libertas/ProjectLibertas/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.15-19.19.06:292][727]LogSlate: Window 'BP_FPShooter_AI' being destroyed
+[2025.07.15-19.19.06:299][727]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-19.19.06:299][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-19.19.06:367][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.07.15-19.19.08:250][871]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-19.19.08:261][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-19.19.08:265][871]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.07.15-19.19.08:265][871]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.07.15-19.19.08:265][871]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.15-19.19.08:283][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017683s)
+[2025.07.15-19.19.08:283][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.017726s)
+[2025.07.15-19.19.08:305][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.07.15-19.19.08:306][871]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.15-19.19.08:308][871]LogPlayLevel: PIE: World Init took: (0.001624s)
+[2025.07.15-19.19.08:308][871]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.07.15-19.19.08:308][871]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-19.19.08:308][871]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-19.19.08:308][871]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-19.19.08:308][871]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-19.19.08:308][871]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-19.19.08:308][871]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-19.19.08:308][871]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-19.19.08:308][871]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-19.19.08:308][871]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-19.19.08:308][871]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-19.19.08:308][871]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-19.19.08:312][871]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-19.19.08:332][871]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB Audio Device)
+[2025.07.15-19.19.08:332][871]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-19.19.08:332][871]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-19.19.08:332][871]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-19.19.08:332][871]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.07.15-19.19.08:332][871]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.07.15-19.19.08:335][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.07.15-19.19.08:335][871]LogInit: FAudioDevice initialized with ID 2.
+[2025.07.15-19.19.08:335][871]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.07.15-19.19.08:335][871]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ArenaShooter'.
+[2025.07.15-19.19.08:335][871]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.15-19.19.08:338][871]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.15-19.19.08:349][871]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.15-15.19.08
+[2025.07.15-19.19.08:355][871]LogWorld: Bringing up level for play took: 0.016269
+[2025.07.15-19.19.08:359][871]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.07.15-19.19.08:374][871]PIE: Server logged in
+[2025.07.15-19.19.08:375][871]PIE: Play in editor total start time 0.121 seconds.
+[2025.07.15-19.19.08:555][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Weapons/Pistol/Meshes/SM_Pistol.SM_Pistol being ready before playing
+[2025.07.15-19.19.08:555][874]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Weapons/Rifle/Meshes/SM_Rifle.SM_Rifle being ready before playing
+[2025.07.15-19.19.08:572][874]LogStaticMesh: Display: Waiting for static meshes to be ready 1/2 (/Game/Weapons/Rifle/Meshes/SM_Rifle) ...
+[2025.07.15-19.19.08:580][875]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2025.07.15-19.19.08:656][877]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Weapons/GrenadeLauncher/Meshes/SM_GrenadeLauncher.SM_GrenadeLauncher being ready before playing
+[2025.07.15-19.19.08:672][877]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Weapons/GrenadeLauncher/Meshes/SM_GrenadeLauncher) ...
+[2025.07.15-19.20.00:959][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-19.20.00:959][453]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.15-19.20.00:959][453]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-19.20.00:959][453]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-19.20.00:961][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-19.20.00:963][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-19.20.00:969][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-19.20.00:991][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-19.20.00:993][453]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.15-19.20.00:993][453]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.07.15-19.20.00:994][453]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.07.15-19.20.01:003][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.07.15-19.20.01:150][454]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.07.15-19.20.11:167][220]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-19.20.11:181][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-19.20.11:181][220]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.15-19.20.11:201][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020291s)
+[2025.07.15-19.20.11:201][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.020358s)
+[2025.07.15-19.20.11:222][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.07.15-19.20.11:223][220]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.07.15-19.20.11:225][220]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2025.07.15-19.20.11:226][220]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.07.15-19.20.11:226][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-19.20.11:226][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-19.20.11:226][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-19.20.11:226][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-19.20.11:226][220]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-19.20.11:226][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-19.20.11:226][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-19.20.11:226][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-19.20.11:226][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-19.20.11:226][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-19.20.11:226][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-19.20.11:229][220]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-19.20.11:249][220]LogAudioMixer: Display: Using Audio Hardware Device Headphones (USB Audio Device)
+[2025.07.15-19.20.11:249][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-19.20.11:249][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-19.20.11:249][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-19.20.11:249][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.07.15-19.20.11:249][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.07.15-19.20.11:252][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.07.15-19.20.11:252][220]LogInit: FAudioDevice initialized with ID 3.
+[2025.07.15-19.20.11:252][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.07.15-19.20.11:252][220]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ArenaShooter'.
+[2025.07.15-19.20.11:252][220]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.15-19.20.11:255][220]LogLoad: Game class is 'GM_Shooter_C'
+[2025.07.15-19.20.11:266][220]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.07.15-15.20.11
+[2025.07.15-19.20.11:269][220]LogWorld: Bringing up level for play took: 0.013316
+[2025.07.15-19.20.11:272][220]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.07.15-19.20.11:281][220]PIE: Server logged in
+[2025.07.15-19.20.11:282][220]PIE: Play in editor total start time 0.106 seconds.
+[2025.07.15-19.20.16:568][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-19.20.16:568][774]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.07.15-19.20.16:568][774]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-19.20.16:568][774]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-19.20.16:571][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-19.20.16:572][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-19.20.16:577][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-19.20.16:599][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-19.20.16:599][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.15-19.20.16:600][774]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.07.15-19.20.16:601][774]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.07.15-19.20.16:610][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.07.15-19.20.16:751][775]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.07.15-19.20.39:098][437]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.07.15-19.23.22:195][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 719.111389
+[2025.07.15-19.23.23:195][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-19.23.23:195][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 719.777344, Update Interval: 324.364746
